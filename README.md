@@ -31,12 +31,11 @@ Users should be able to:
 
 ### Screenshot
 
-[Solution Screenshot](./screencapture.png)
+![Solution Screenshot](./screencapture.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [github live](https://taiking005-git.github.io/nft-preview-card-component-main/)
 
 ## My process
 
@@ -51,7 +50,7 @@ Users should be able to:
 
 ### Useful resources
 
-- www.w3schools.com - [www.w3schools.com] (https://www.w3schools.com/cssref/css3_pr_background.asp)
+- w3schools :[www.w3schools.com](https://www.w3schools.com/cssref/css3_pr_background.asp)
 
 ## Author
 
