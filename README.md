@@ -47,13 +47,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### Useful resources
 
--- www.w3schools.com- [www.w3schools.com] (https://www.w3schools.com/cssref/css3_pr_background.asp)
+- www.w3schools.com - [www.w3schools.com] (https://www.w3schools.com/cssref/css3_pr_background.asp)
 
 ## Author
 
