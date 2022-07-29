@@ -43,7 +43,7 @@ body {
   width: 350px;
   padding: 20px;
   border-radius: 20px;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
 }
 
@@ -114,7 +114,7 @@ body {
 }
 
 hr {
-  border-color: var(--Very-dark-blue-line);
+  border-color: var(--primary-Soft-blue);
 }
 .price-container div img {
   height: fit-content;
@@ -126,17 +126,11 @@ hr {
   align-items: center;
 }
 
-.creator-image {
-  display: flex;
-  height: 42px;
-  width: 42px;
-  border-radius: 50%;
-  background-color: var(--White);
-  margin-right: 20px;
-}
-
 .bottom-wrapper img {
   object-fit: contain;
+  border-radius: 50%;
+  margin-right: 20px;
+  border: 2px solid #fff;
   margin: auto;
   height: 40px;
 }
